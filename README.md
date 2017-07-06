@@ -2,7 +2,9 @@
 
 ## Overview
 
-[![RGButterfly Logo](images/RGButterfly_Logo.png)](http://rgbutterfly.com) The main purpose of this iPhone App is to suggest matching paint colors for selected areas of a photo. It does this by applying a _Match Algorithm_ against a database of paint colors. The key word is _attempt_
+[![RGButterfly Logo](images/RGButterfly_Logo.png)](http://rgbutterfly.com) This documentation is for the "Tech" first version of the App. Please visit [RGButterflyDocs](https://spineo.github.io/RGButterflyDocs/) for the latest version.
+
+The main purpose of this iPhone App is to suggest matching paint colors for selected areas of a photo. It does this by applying a _Match Algorithm_ against a database of paint colors. The key word is _attempt_
 as there is much variability in the process and the results obtained may often be far from what you might expect (please review the [__About__](About.md) and [__Disclaimer__](Disclaimer.md) sections to learn more and, if your are interested in the technical side of things, the [__Programming Considerations__](Programming.md) section)
 
 The three broad capabilities for the App are __Reference & Search__, __Paints Suggestion__, and __Paints Data Capture__.
